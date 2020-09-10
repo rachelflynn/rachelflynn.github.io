@@ -1,6 +1,6 @@
 ## Rachel's Website
 
-[![](https://pbs.twimg.com/profile_images/1247144944483086340/Tjx3ACrg_400x400.jpg)](#)
+[![](https://pbs.twimg.com/profile_images/1304145393924669452/E5gUEnTH_400x400.jpg)](#)
 
 Currently pursuing my MA in political communication at the Univeristy of Cape Town! 
 
