@@ -5,6 +5,6 @@
 Currently pursuing my MA in political communication at the Univeristy of Cape Town! 
 
 ---------------
-*Follow me on insta @[rachelflynnnn](https://www.instagram.com/rachelflynnnn/)
+*Follow me on insta @[rachelflynnnn](https://www.instagram.com/rachelflynnnn/)*
 
 *Tweet me @[raatchhh](https://twitter.com/raatchhh)*
