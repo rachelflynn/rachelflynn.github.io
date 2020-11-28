@@ -1,6 +1,4 @@
 
 
-Design by Tim O'Brien t413.com
-&mdash;
-Theme - github.com/t413/SinglePaged
+Content copyright Rachel Flynn © 2020-2021, flynnrachel.com
 
