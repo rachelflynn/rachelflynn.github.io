@@ -20,7 +20,7 @@ description: "Rachel Flynn's personal website and blog"
 source_link: "https://github.com/rachelflynn/rachelflynn.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-# google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: G-FRDMDL64XW ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
